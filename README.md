@@ -30,5 +30,5 @@ Qatar was the country to have experienced the lowest unemployment rate ever reco
 34-year period in the year 2019, in the face of covid-19. Analysis was done in PostgreSQL and 
 visualization covered on Tableau.
 
-**Link :** []
+**Link :** [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/Postgres-Project)
 
