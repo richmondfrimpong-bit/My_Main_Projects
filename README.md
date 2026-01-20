@@ -16,7 +16,7 @@ Python scikit-learn linear regression module in running multiple regression
 in python. With these functions all a user needs to do is pass the dataset as 
 an argument and everything else is handled.
 
-**Link :**  []
+**Link :**  [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/Pretty-View)
 
 
 
