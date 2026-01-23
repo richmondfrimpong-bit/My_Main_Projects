@@ -7,8 +7,8 @@ Projects showcase my skills in Python, PostgreSQL, Tableau
 
 ## Featured projects
 
-### [Python Functions to run multiple Linear regression]
-**Tech :** Python; scikit-learn
+### Python Functions to run multiple Linear regression
+**Tech :** Python, scikit-learn
 
 **Description :** 
 These functions enable people who are not python savvy in utilising the 
@@ -20,7 +20,7 @@ an argument and everything else is handled.
 
 
 
-### [Data Analysis on 34-year youth unemployment dataset with Postgres]
+### Data Analysis on 34-year youth unemployment dataset with Postgres
 **Tech :**  PostgreSQL, Tableau
 
 **Description :**
@@ -31,4 +31,16 @@ Qatar was the country to have experienced the lowest unemployment rate ever reco
 visualization covered on Tableau.
 
 **Link :** [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/Postgres-Project)
+
+
+
+### Learning Assistant
+**Tech :**  pymong, lanchain, openai 
+
+**Description :**
+This project entails an ai agent, precisely a learning assistant. The main objective is to build a learning assistant 
+for actuarial students preparing to take the Society of Actuaries'(SOA) Exam FM. 
+The technologies used in this project are pymongo the official API of MongoDB, langchain, Openai API.
+
+**Link :** [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/AI_Agent)
 
