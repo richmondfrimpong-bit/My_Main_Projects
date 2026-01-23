@@ -35,7 +35,7 @@ visualization covered on Tableau.
 
 
 ### Learning Assistant
-**Tech :**  pymong, lanchain, openai 
+**Tech :**  pymongo, lanchain, openai 
 
 **Description :**
 This project entails an ai agent, precisely a learning assistant. The main objective is to build a learning assistant 
