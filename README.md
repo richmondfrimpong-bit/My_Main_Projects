@@ -16,7 +16,7 @@ Python scikit-learn linear regression module in running multiple regression
 in python. With these functions all a user needs to do is pass the dataset as 
 an argument and everything else is handled.
 
-**Link :**  [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/Pretty-View)
+**Link :** (https://github.com/richmondfrimpong-bit/Pretty-View)
 
 
 
@@ -30,7 +30,7 @@ Qatar was the country to have experienced the lowest unemployment rate ever reco
 34-year period in the year 2019, in the face of covid-19. Analysis was done in PostgreSQL and 
 visualization covered on Tableau.
 
-**Link :** [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/Postgres-Project)
+**Link :** (https://github.com/richmondfrimpong-bit/Postgres-Project)
 
 
 
@@ -42,5 +42,26 @@ This project entails an ai agent, precisely a learning assistant. The main objec
 for actuarial students preparing to take the Society of Actuaries'(SOA) Exam FM. 
 The technologies used in this project are pymongo the official API of MongoDB, langchain, Openai API.
 
-**Link :** [-> GitHub Repo] (https://github.com/richmondfrimpong-bit/AI_Agent)
+**Link :** (https://github.com/richmondfrimpong-bit/AI_Agent)
+
+
+
+### ML code dump
+**Tech :**  python
+
+**Description :**
+This is a repository containing the codes to some of my machine learning projects and trials.
+
+**Link :**  (https://github.com/richmondfrimpong-bit/Machine_Learning_Code_Dump)
+
+
+
+### Agentic AI Building
+**Tech :**  Antigravity, AI, Google Cloud Run
+
+**Description :**
+This is a repository containing the codes to website built with Google's Antigravity.
+
+**Link :**  (https://github.com/richmondfrimpong-bit/Agentic_AI_Building_with_Antigravity)
+
 
