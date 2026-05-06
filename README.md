@@ -46,7 +46,7 @@ The technologies used in this project are pymongo the official API of MongoDB, l
 
 
 
-### ML code dump
+### Machine Learning code dump
 **Tech :**  python
 
 **Description :**
